@@ -1,8 +1,8 @@
 /*
 * Ngeshlew - User Experience Designer crafting beautiful User Interfaces
-* Author: Designova, http://www.designova.net
-* Copyright (C) 2015 Designova
-* This is a premium product. For licensing queries please contact info@designova.net
+* Author: ngeshlew, http://www.ngeshlew.net
+* Copyright (C) 2015 ngeshlew
+* This is a premium product. For licensing queries please contact info@ngeshlew.net
 */
 
 

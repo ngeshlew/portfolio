@@ -1425,7 +1425,7 @@ fioOpacity:.5,fioStart:0,fioEnd:1,enlargeBy:"0",mediaAspectRatio:16/9,pageVisibi
 })( jQuery, window, document );
 
 
-/*Equal Heights JS by Designova*/
+/*Equal Heights JS by ngeshlew*/
 
 $.fn.setAllToMaxHeight = function(){
 return this.css({ 'height' : '' }).height( Math.max.apply(this, $.map( this , function(e){ return $(e).height() }) ) );
