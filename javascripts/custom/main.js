@@ -1,5 +1,5 @@
 /*
-* Ngeshlew - A premium portfolio template from designova
+* Ngeshlew - User Experience Designer crafting beautiful User Interfaces
 * Author: Designova, http://www.designova.net
 * Copyright (C) 2015 Designova
 * This is a premium product. For licensing queries please contact info@designova.net
