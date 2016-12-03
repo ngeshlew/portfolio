@@ -102,7 +102,7 @@ div#preloader.fluidview {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.1);
 }
 .content-overlay-layer-dark{
   position: absolute;
@@ -110,7 +110,7 @@ div#preloader.fluidview {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgba(0,0,0,0.1);
 }
 
 /* 2. Header
